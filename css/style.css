@@ -1,0 +1,14 @@
+#img-div {
+    
+    align-self: center;
+}
+#image {
+    display: block;
+    position: relative;
+    align-self: center;
+    max-width: 100%;
+    height: auto;
+}
+body {
+    text-align: center;
+}
